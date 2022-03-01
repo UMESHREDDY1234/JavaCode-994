@@ -8,6 +8,7 @@ int i=20;
 int a=200;
 int z=9;
 int s=0;
+  String k="umesh";
 System.out.println(a);
 }
 }
