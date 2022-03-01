@@ -6,6 +6,6 @@ system.out.println("welcome to java");
 int i=10;
 int i=20;
 int a=200;
-
+System.out.println(a);
 }
 }
