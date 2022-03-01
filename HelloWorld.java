@@ -8,6 +8,7 @@ int i=20;
 int a=200;
 int z=9;
 int s=0;
+int f=90;
 System.out.println(a);
 }
 }
